@@ -1,0 +1,9 @@
+body{
+    background: url(img/battlefield.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+label{
+    color: white;
+}

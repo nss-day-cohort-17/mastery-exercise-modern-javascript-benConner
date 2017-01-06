@@ -1,0 +1,5 @@
+console.log(battleBots.robot.player)
+console.log(battleBots.Model.Stealthy.prototype )
+console.log(new battleBots.Model.sniper())
+console.log(battleBots.Model.Ninja.prototype)
+console.log(battleBots.Model.Assassin.prototype)
